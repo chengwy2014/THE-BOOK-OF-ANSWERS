@@ -1,6 +1,6 @@
 反对996
 
-github.com/996icu/996.ICU
+https://github.com/996icu/996.ICU
 
 程序用的python
 
