@@ -1,13 +1,11 @@
-[反对996](https://github.com/996icu/996.ICU)
+#答案之书，求Star
 
-Python
+##[反对996加班制度，点击此处前往996.ICU项目](https://github.com/996icu/996.ICU)
 
-[此处下载](https://github.com/dudushsh2014/THE-BOOK-OF-ANSWERS/releases)
+###程序使用Python编写
 
-除了词条以外用的都是英文，但是应该都看得懂，如果看不懂的可以去请教百度翻译fanyi.baidu.com
+####[此处下载](https://github.com/dudushsh2014/THE-BOOK-OF-ANSWERS/releases)
 
-issue大舞台，有能力你就来！
+####除了词条以外用的都是英文，但是应该都看得懂，如果看不懂的可以去请教百度翻译fanyi.baidu.com
 
-[issue](https://github.com/chengwy2014/THE-BOOK-OF-ANSWERS/issues)
-
-能不能给个star，求求各位了
+####[issue大舞台，有能力你就来](https://github.com/chengwy2014/THE-BOOK-OF-ANSWERS/issues)
